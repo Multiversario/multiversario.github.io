@@ -1861,6 +1861,7 @@ input, select, textarea {
 
 				#nav a.active:after {
 					border-bottom-width: 0.5em;
+					text-decoration: none;
 				}
 
 		@media screen and (max-width: 980px) {
