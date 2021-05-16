@@ -1855,6 +1855,10 @@ input, select, textarea {
 				#nav a:hover span {
 					opacity: 1.0;
 				}
+			
+			#nav a.link{
+   					text-decoration: none;
+				}
 
 			#nav a.active {
 				opacity: 1.0;
