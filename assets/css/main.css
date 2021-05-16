@@ -1854,6 +1854,7 @@ input, select, textarea {
 
 				#nav a:hover span {
 					opacity: 1.0;
+					text-decoration: none;
 				}
 			
 			#nav a.link{
