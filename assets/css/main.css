@@ -1679,7 +1679,7 @@ input, select, textarea {
 			}
 
 			
-		/* Style buttons */
+	/* Style buttons */
 	.btn {
 		background-color: DodgerBlue; /* Blue background */
 	  	border: none; /* Remove borders */
@@ -1689,7 +1689,7 @@ input, select, textarea {
   		cursor: pointer; /* Mouse pointer on hover */
 		}
 
-		/* Darker background on mouse-over */
+	/* Darker background on mouse-over */
 	.btn:hover {
   			background-color: RoyalBlue;
 			}
